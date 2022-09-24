@@ -91,3 +91,16 @@ h1, h2, h3{
     overflow: hidden;
     position: relative;
 }
+
+#cover, #cover h2{
+    color: rgb(238, 231, 142);
+}
+
+#taxiImg{
+    height: 600px;
+    width: 100%;
+    background: url('../images/taxiS.jpg') no-repeat center center;
+    animation-name: taxi-focus;
+    animation-duration: 10s;
+    animation-fill-mode: backwards;
+}
