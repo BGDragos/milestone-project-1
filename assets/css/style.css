@@ -31,3 +31,17 @@ nav > ul  {
 nav > ul:hover{
     color: #e8eae0;
 }
+
+h1, h2, h3{
+    font-family: 'Roboto Serif', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    color: #ccf809;
+}
+
+#taxi{
+    float: right;
+    font-size: 200%;
+    margin-right: 50px;
+	height: 50px;
+}
