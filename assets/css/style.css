@@ -257,23 +257,18 @@ h1, h2, h3{
     border-radius: 50%;
 }
 
-.mapouter{
-    position:relative;
-    text-align:center;
-    height: 400px;
-    width: 100%;
-    margin-bottom: 110px;
+#mapouter{
+    height: 300px;
+    margin-bottom: 107px;
 }
 
-.gmap_canvas {
-    overflow:hidden;
-    background:none!important;
-    height: 120%;
+#gmap_canvas {
+    height: 100%;
     width: 100%;
     border: none;
 }
 
-/* Taxi Footer Network*/
+/* Taxi Network*/
 
 footer {
     height: 110px;
