@@ -181,6 +181,48 @@ h1, h2, h3{
    float: right;
 }
 
+#taxiRight{
+    padding-top: 35px;
+    width: 30%;
+    float: right;
+}
+
+#taxiCenter{
+   width: 20%;
+   margin: 0 auto;
+}
+
+.color{
+    border-top: 2px solid #e40909;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.taxiLeftTop{
+    width: 90%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 60px;
+    text-align: left;
+}
+
+.taxiLeftTop h2 {
+    text-align: left;
+}
+
+.taxiLeftTop p {
+    text-align: left;
+}
+
+.taxiRightTop{
+    width: 90%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 60px;
+}
+
 .mapouter{
     position:relative;
     text-align:center;
