@@ -104,3 +104,39 @@ h1, h2, h3{
     animation-duration: 10s;
     animation-fill-mode: backwards;
 }
+
+@keyframes taxi-focus {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+#cover{
+	font-size: 100%;
+    font-family: 'Roboto Serif', sans-serif;
+    letter-spacing: 4px;
+	text-align: center;
+
+    width: 320px;
+    height: 320px;
+
+    padding-top: 30px;
+    padding-left: 10px;
+
+    background-color: rgba(70, 233, 222, 0.44);
+
+    top: 80px;
+    left: 200px;
+
+    position: absolute;
+}
+
+.coverTwo{
+	padding-top: 30px;
+	color: #f43434;
+	text-align: left;
+	margin-top: 5%;
+}
