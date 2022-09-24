@@ -141,6 +141,23 @@ h1, h2, h3{
 	margin-top: 5%;
 }
 
+/* TaxisA2B services */
+
+#circleTaxi{
+    width: 250px;
+    height: 250px;
+    padding: 40px;
+    border-style: solid;
+    border-color: rgb(116, 210, 9);
+    border-width: 3px;
+    border-radius: 50%;
+    margin: 0 auto;
+	position: absolute;
+  	left: 150px;
+  	width: 280px;
+  	height: 120px;
+}
+
 .mapouter{
     position:relative;
     text-align:center;
@@ -155,4 +172,35 @@ h1, h2, h3{
     height: 120%;
     width: 100%;
     border: none;
+}
+
+/* Taxi Footer Network*/
+
+footer {
+    height: 110px;
+    font-family: 'Roboto Serif', sans-serif;
+    color: #ccf809;
+}
+
+.taxiNetwork{
+    text-align: center; 
+    height: 100px;
+}
+
+.taxiNetwork > li {
+    display: inline;
+}
+
+.taxiNetwork > p {
+    padding: 1rem;
+    margin: 1rem;
+    font-family: 'Roboto Serif', sans-serif;
+    color: #ccf809;
+}
+
+.taxiNetwork i{
+    font-size: 150%;
+    padding: 5%;
+    color: yellow;
+    margin: 1%;
 }
