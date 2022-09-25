@@ -423,3 +423,32 @@ form p {
 #taxi {
     text-align: left;
 }
+
+#booking {
+    height: 30px;
+    width: 100px;
+    padding-left: 10px;
+    color: #e40909;
+    font-weight: bold;
+
+}
+
+.text-color {
+    color: #310666;
+    font-weight: bold;
+    border: none;
+    margin-top: 60px;
+}
+
+
+.block-label {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #f16c6b;
+    color: #fafafa;
+    float: right;
+}
+
