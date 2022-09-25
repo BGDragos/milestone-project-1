@@ -359,3 +359,67 @@ input[type=submit] {
     float: left;
 
 }
+
+input[type=reset] {
+
+    margin-top: 20px;
+    margin-left: 0.75rem;
+    padding: 0.75rem;
+    background-color: white;
+    color: #e40909;
+    border: 1px solid #e40909;
+    border-radius: 5px;
+
+    float: right;
+
+}
+
+input[list=time] {
+    height: 30px;
+    width: 90%;
+    padding-left: 10px;
+    margin: 0 auto;
+}
+
+.text-input {
+    background: transparent;
+    color: #310666;
+    width: 30%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    text-align: justify;
+    font-size: larger;
+}
+
+.text-input:hover {
+    border-color: #3809f3;
+}
+
+select {
+    height: 36px;
+    width: 100px;
+    padding-left: 10px;
+    color: #e40909;
+    font-weight: bold;
+    background: transparent;
+}
+
+form p {
+    text-align: center;
+}
+
+.color-change {
+    color: rgb(205, 17, 7);
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    text-decoration: solid;
+    margin-left: 45px;
+    font-family: 'Roboto Serif', sans-serif;
+}
+
+#taxi {
+    text-align: left;
+}
