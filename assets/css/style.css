@@ -334,3 +334,28 @@ label {
     margin: 20px 20px 5px 0;
 
 }
+
+legend {
+    font-size: large;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 30px 0 20px 0;
+    float: left;
+    color: #e40909;
+    font-family: 'Roboto Serif', sans-serif;
+    font-size: xx-large;
+}
+
+
+input[type=submit] {
+    margin-top: 20px;
+    margin-left: 0.75rem;
+    padding: 0.75rem;
+    background-color: #e40909;
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+    float: left;
+
+}
