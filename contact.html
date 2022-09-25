@@ -13,21 +13,23 @@
 
 <body>
     <header>
-        <div class="right">
+        <div>
             <a href="index.html">
                 <h1 id="taxi">TaxisA2B.com <i class="fa-sharp fa-solid fa-taxi"></i></h1>
             </a>
         </div>
-    </header>
+        <br>
+
+        <hr>
 
     <nav>
         <ul id="taxiMenu" class="text-uppercase text-align">
 
             <li>
-                <a href="index.html">Home</a>
+                <a href="index.html" class="live">Home</a>
             </li>
             <li>
-                <a href="contact.html" class="live">Contact</a>
+                <a href="contact.html">Booking</a>
             </li>
             <li>
                 <a href="about.html">About US</a>
@@ -35,6 +37,8 @@
 
         </ul>
     </nav>
+
+</header>
 
     <section>
 
@@ -67,6 +71,7 @@
                     <option value="3">3 PAX</option>
                     <option value="4">4 PAX</option>
                 </select>
+
 
             </fieldset>
 
@@ -102,34 +107,44 @@
                     <label for="for">4</label>
 
                 </div>
-        
-                </fieldset>
 
-                <fieldset>
+            </fieldset>
 
-                    <div>
-                        <p>Type of Services:</p>
-                        <input id="wci" name="wci-taxi" value="wci" type="checkbox" required>
-                        <label for="wci" class="color-change">Wheelchair Taxi</label>
-    
-                        <input id="standard" name="standard-taxi" value="standard" type="checkbox" required>
-                        <label for="standard" class="color-change">Taxi Standard</label>
-    
-                        <input id="return" name="return-taxi" value="return" type="checkbox" required>
-                        <label for="return" class="color-change">Return</label>
-                    </div>
-    
-                </fieldset>
+            <fieldset>
 
-                <input type="submit" class="block-label" value="Book Now">
-                <input type="reset" class="block-label" value="Reset">
+                <div>
+                    <p>Type of Services:</p>
+                    <input id="wci" name="wci-taxi" value="wci" type="checkbox" required>
+                    <label for="wci" class="color-change">Wheelchair Taxi</label>
 
-            </form>
+                    <input id="standard" name="standard-taxi" value="standard" type="checkbox" required>
+                    <label for="standard" class="color-change">Taxi Standard</label>
+
+                    <input id="return" name="return-taxi" value="return" type="checkbox" required>
+                    <label for="return" class="color-change">Return</label>
+                </div>
+
+            </fieldset>
+
+            <input type="submit" class="block-label" value="Book Now">
+            <input type="reset" class="block-label" value="Reset">
+
+        </form>
 
     </section>
 
     <footer class="taxiNetwork">
-        <h3>Find Us:<i class="fa-solid fa-hand-holding-heart"></i></h3>
+
+        <section>
+            <h3>Find Us:<i class="fa-solid fa-hand-holding-heart"></i></h3>
+        
+            <div id="mapouter">
+                <iframe id="gmap_canvas"
+                    src="https://maps.google.com/maps?q=portlaoise%20taxisa2b&t=&z=13&ie=UTF8&iwloc=&output=embed">
+                </iframe>
+            </div>
+            </section>
+
         <a href="https://www.facebook.com/TaxisA2B/" target="_blank" rel="noopener" aria-label="Find us on Facebook"><i
                 class="fa-brands fa-facebook"></i></a>
         <a href="https://www.instagram.com/taxisa2b/?hl=en" target="_blank" rel="noopener"
@@ -139,6 +154,7 @@
             aria-label="Find us on Yelp"><i class="fa-brands fa-yelp"></i></a>
 
         <p>© 2022 TaxisA2B / CRO 654230</p>
+    
     </footer>
 
     <!--FontAwesome Script-->

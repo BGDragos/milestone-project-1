@@ -13,12 +13,14 @@
 
 <body>
     <header>
-        <div class="right">
+        <div>
             <a href="index.html">
                 <h1 id="taxi">TaxisA2B.com <i class="fa-sharp fa-solid fa-taxi"></i></h1>
             </a>
         </div>
-    </header>
+        <br>
+
+        <hr>
 
     <nav>
         <ul id="taxiMenu" class="text-uppercase text-align">
@@ -27,7 +29,7 @@
                 <a href="index.html" class="live">Home</a>
             </li>
             <li>
-                <a href="contact.html">Contact</a>
+                <a href="contact.html">Booking</a>
             </li>
             <li>
                 <a href="about.html">About US</a>
@@ -35,6 +37,8 @@
 
         </ul>
     </nav>
+
+</header>
 
     <section id="taxi-dublin">
         <div id="taxiImg"></div>
@@ -49,17 +53,11 @@
     </section>
 
     <section id="taxisa2b">
-        <div id="taxiCenter">
-            <div id="circleTaxi">
-                <div id="taxiCover"></div>
-            </div>
-        </div>
-
-        <h2 id="services">Our Services <i class="fa-solid fa-handshake"></i></h2>
+         <h2 id="services">Our Services <i class="fa-solid fa-handshake"></i></h2>
         <div id="taxiLeft">
             <div class="taxiLeftTop">
                 <h2><i class="fa-solid fa-user"></i> Meet and Greet</h2>
-                <hr class="color">
+                <hr>
                 <p>
                     <i class="fa-solid fa-check"></i> Our Private Car Pickup services are set apart from the rest by our
                     consistency,
@@ -69,7 +67,7 @@
             </div>
             <div class="taxiLeftTop">
                 <h2><i class="fa-solid fa-wheelchair-move"></i> Wheelchair Accessible Taxis</h2>
-                <hr class="color">
+                <hr>
                 <p>
                     <i class="fa-solid fa-check"></i> Sometimes getting where you need to go can be more than just a
                     job, it can be an enjoyable experience.
@@ -80,7 +78,7 @@
         <div id="taxiRight">
             <div class="taxiRightTop">
                 <h2><i class="fa-solid fa-file-invoice-dollar"></i> Corporate Accounts</h2>
-                <hr class="color">
+                <hr>
                 <p>
                     <i class="fa-solid fa-check"></i> A corporate account with us means you benefit from special
                     discounts,
@@ -89,7 +87,7 @@
             </div>
             <div class="taxiRightTop">
                 <h2><i class="fa-solid fa-money-bill"></i> Fair Prices GUARANTEED!</h2>
-                <hr class="color">
+                <hr>
                 <p>
                     <i class="fa-solid fa-check"></i> Our prices are unbeatable, we offer airport transfer service for
                     less money!
@@ -97,16 +95,26 @@
             </div>
         </div>
 
+        <div id="taxiCenter">
+            <div id="circleTaxi">
+                <div id="taxiCover"></div>
+            </div>
+        </div>
+
     </section>
-
-    <div id="mapouter">
-        <iframe id="gmap_canvas"
-            src="https://maps.google.com/maps?q=portlaoise%20taxisa2b&t=&z=13&ie=UTF8&iwloc=&output=embed">
-        </iframe>
-    </div>
-
+   
     <footer class="taxiNetwork">
-        <h3>Find Us:<i class="fa-solid fa-hand-holding-heart"></i></h3>
+
+        <section>
+            <h3>Find Us:<i class="fa-solid fa-hand-holding-heart"></i></h3>
+        
+            <div id="mapouter">
+                <iframe id="gmap_canvas"
+                    src="https://maps.google.com/maps?q=portlaoise%20taxisa2b&t=&z=13&ie=UTF8&iwloc=&output=embed">
+                </iframe>
+            </div>
+            </section>
+
         <a href="https://www.facebook.com/TaxisA2B/" target="_blank" rel="noopener" aria-label="Find us on Facebook"><i
                 class="fa-brands fa-facebook"></i></a>
         <a href="https://www.instagram.com/taxisa2b/?hl=en" target="_blank" rel="noopener"
@@ -116,6 +124,7 @@
             aria-label="Find us on Yelp"><i class="fa-brands fa-yelp"></i></a>
 
         <p>© 2022 TaxisA2B / CRO 654230</p>
+    
     </footer>
 
     <!--FontAwesome Script-->
