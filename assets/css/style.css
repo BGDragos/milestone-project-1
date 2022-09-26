@@ -41,7 +41,7 @@ h3 {
 #taxi {
     float: right;
     font-size: 280%;
-    margin-right: 40px;
+    margin-right: 30px;
 }
 
 /*Navigation links*/
@@ -53,7 +53,7 @@ h3 {
 
 #taxiMenu,
 #taxi {
-    line-height: 70px;
+    line-height: 75px;
 }
 
 #taxiMenu li {
@@ -158,22 +158,20 @@ h3 {
     padding-top: 75px;
     width: 33%;
     float: left;
-    background-color: rgb(55, 24, 2);
+    background-color: rgb(13, 13, 12);
     position: relative;
-    left: 70px;
-    top: -15px;
     border-width: 3px;
+    border-radius: 5%
 }
 
 #taxiRight {
     padding-top: 75px;
     width: 33%;
     float: right;
-    background-color: rgb(55, 24, 2);
+    background-color: rgb(13, 13, 12);
     position: relative;
-    right: 70px;
-    top: -15px;
     border-width: 3px;
+    border-radius: 5%
 }
 
 #taxiCenter {
@@ -209,7 +207,16 @@ hr {
     text-align: right;
 }
 
+.taxiLeftTop h2 {
+    text-align: right;
+}
+
+
 .taxiRightTop p {
+    text-align: right;
+}
+
+.taxiLeftTop p {
     text-align: right;
 }
 
@@ -226,16 +233,16 @@ hr {
     height: 250px;
     padding: 40px;
     border-style: solid;
-    border-color: rgb(116, 210, 9);
-    border-width: 1px;
-    border-radius: 50%;
+    border-color: rgb(13, 13, 12);
+    border-width: 10px;
+    border-radius: 30%;
     margin: 0 auto;
 }
 
 #taxiCover {
     background: url('../images/taxisa2b.jpg')no-repeat center center;
     height: 100%;
-    border-radius: 50%;
+    border-radius: 30%;
 }
 
 #mapouter {
@@ -292,6 +299,7 @@ form {
     text-align: right;
     text-transform: uppercase;
     font-size: large;
+    border-radius: 90px;
 }
 
 #client-name {
@@ -302,16 +310,15 @@ form {
     height: 600px;
 }
 
-label {
-    margin: 20px 20px 5px 0;
-
+#background {
+    background:#f9f90ed6;
 }
 
 legend {
     font-size: large;
     font-weight: 600;
     text-transform: uppercase;
-    margin: 30px 0 20px 0;
+    margin: 30px 0 80px 0;
     float: left;
     color: #e40909;
     font-family: 'Roboto Serif', sans-serif;
@@ -320,28 +327,25 @@ legend {
 
 
 input[type=submit] {
-    margin-top: 20px;
+    margin-top: 40px;
     margin-left: 0.75rem;
     padding: 0.75rem;
-    background-color: #e40909;
+    background-color: #222;
     color: white;
     border: none;
-    border-radius: 5px;
-
+    border-radius: 10px;
     float: left;
-
 }
 
 input[type=reset] {
 
-    margin-top: 20px;
+    margin-top: 40px;
     margin-left: 0.75rem;
     padding: 0.75rem;
     background-color: white;
-    color: #e40909;
-    border: 1px solid #e40909;
-    border-radius: 5px;
-
+    color: #222;
+    border: 5px solid #e40909;
+    border-radius: 10px;
     float: right;
 
 }
@@ -372,7 +376,7 @@ input[list=time] {
 select {
     height: 36px;
     width: 100px;
-    padding-left: 10px;
+    padding-left: 30px;
     color: #e40909;
     font-weight: bold;
     background: transparent;
@@ -388,8 +392,9 @@ form p {
     font-weight: bold;
     font-size: x-large;
     text-decoration: solid;
-    margin-left: 45px;
+     margin: 20px 59px 20px 0;
     font-family: 'Roboto Serif', sans-serif;
+    background:#f9f90ed6;
 }
 
 #taxi {
