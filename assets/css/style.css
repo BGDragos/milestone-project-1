@@ -528,7 +528,7 @@ form p {
 
 /*Media queries*/
 
-/*For larger to medium screen size 1200px wide and down*/
+/*For larger to medium screen size 1200px*/
 @media screen and (max-width: 1200px) {
     #taxisa2b{
         width: 65%;
@@ -605,5 +605,44 @@ form p {
     .taxiRightTop p {
         text-align: center;
         padding: 0 20px;
+    }
+}
+
+@media screen and (max-width: 600px){
+
+    #taxi{
+        width:fit-content;
+    }
+    
+    #cover{
+        width:fit-content;
+    }
+
+#about{
+    width: 100%;
+    text-align: justify;
+}
+
+#about .program {
+    float: left;
+  width:fit-content;
+}
+
+#img-taxi3 img{
+    width: 80%;
+    margin:20px
+}
+
+    #about-taxi h2{
+        text-align:center;
+    }
+
+ #about-taxi .aboutTaxi{
+     float: right;
+    width:fit-content
+    }
+
+    footer{
+        width:fit-content;
     }
 }
