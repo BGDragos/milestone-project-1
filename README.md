@@ -135,3 +135,31 @@ Today 29/09/2022 I writing this <i>README.md</i> I am proud with my work.
 
   - I got all the majorities of ideas from [Code Institute](https://codeinstitute.net/) applying more modifications.
 
+### Media
+
+  - I meet during the coding of this project loads of issues for view in different screen sizes.
+  
+  - All the pictures used in this <i>website</i> are under my ownership.
+
+  - Template for this <i>README.md</i> is [Code Institute](https://codeinstitute.net/) property, I TAXISA2B, I am using only for presentation and I changed the content only for learning purpose.
+  - Text was written by me, person who developed this website no copy-paste taken.
+
+### <i> Validator Testing</i>
+
+- HTML
+  - I could meet minor errors for mistyping or adding to many open tags in forgetting to close tags [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+
+
+
+  - After careful look I fixed all of them and now performances are after 95%.
+
+
+  ![W3C HTML](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/w3chtml.png?raw=true)
+
+- CSS
+  - I could meet minor errors for mistyping or adding to many open tags or forgetting to close tags [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+
+  - After careful look I fixed all of them and now the CSS file not presenting any error.
+
+  ![W3C CSS](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/w3ccss.png?raw=true)
+
