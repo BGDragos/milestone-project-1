@@ -59,7 +59,7 @@ This site is builded in intention to help any person, group of people, people in
   
 ![Footer](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/footerT.png?raw=true)
 
-## Home page was teste in LightHouse
+### Home page was teste in LightHouse
 
   - This page was tested in LightHouse before uploading all the elements 
   - All the errors occurred during the tests has been resolved using Developer Tools offered by Google.
@@ -80,9 +80,22 @@ This site is builded in intention to help any person, group of people, people in
 
 ![Booking](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/bookingTable.png?raw=true)
 
-## Booking page was teste in LightHouse
+### Booking page was teste in LightHouse
 
   - This page was tested in LightHouse before uploading all the elements 
   - All the errors occurred during the tests has been resolved using Developer Tools offered by Google.
 
 ![LightHouse](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/bookingLighthouse.jpg?raw=true)
+
+## TAXISA2B ABOUT US PAGE 
+
+### <ins>About Us</ins>
+
+- This section explain the way how we operate, different way of communication.
+- Our program from Monday to Friday and a nice (hover) to see clearly selection.
+- A short explanation why everyone can't book for some certain reason.
+- Depende the screen used to see the page, client can have a look inside of the car through small picture provided.
+- Why our job is so serios and what clients cand expect when they book through the website.
+
+![Picture-Inside](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/aboutT.png?raw=true)
+
