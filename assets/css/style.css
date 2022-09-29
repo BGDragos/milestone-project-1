@@ -20,8 +20,8 @@ nav {
     text-align: center;
 }
 
-nav > ul {
-    text-decoration:none;
+nav>ul {
+    text-decoration: none;
     color: rgb(241, 241, 18);
 }
 
@@ -148,9 +148,9 @@ h3 {
 
 #taxisa2b {
     height: 600px;
-        padding: 1rem 0;
-        margin-bottom: 80px;
-        background: url('../images/taxiBlink.jpg') center center / cover no-repeat fixed;
+    padding: 1rem 0;
+    margin-bottom: 80px;
+    background: url('../images/taxiBlink.jpg') center center / cover no-repeat fixed;
 
 }
 
@@ -260,7 +260,7 @@ hr {
 
 footer {
     height: 110px;
-    color:#ccf809;
+    color: #ccf809;
     font-size: 200%;
 
 }
@@ -268,7 +268,7 @@ footer {
 .taxiNetwork {
     text-align: center;
 }
- 
+
 footer h3 {
     text-align: center;
     font-family: 'Roboto Serif', sans-serif;
@@ -296,7 +296,6 @@ footer p {
 form {
     width: 800px;
     padding: 30px;
-    border-radius: 10px;
     margin: 40px auto;
     background-color: rgb(233, 206, 206);
     color: #310666;
@@ -304,20 +303,18 @@ form {
     font-weight: bold;
     text-align: right;
     text-transform: uppercase;
-    font-size: large;
     border-radius: 90px;
 }
 
 #client-name {
     clear: left;
-    background: url('../images/taxisa2b.jpg');
-    background-size: cover;
+    background-image: url('/assets/images/taxi.jpg');
     background-position: center;
     height: 600px;
 }
 
 #background {
-    background:#f9f90ed6;
+    background: #f9f90ed6;
 }
 
 legend {
@@ -328,7 +325,6 @@ legend {
     float: left;
     color: #e40909;
     font-family: 'Roboto Serif', sans-serif;
-    font-size: xx-large;
 }
 
 
@@ -372,7 +368,7 @@ input[list=time] {
     border: 1px solid #fafafa;
     border-radius: 2px;
     text-align: justify;
-    font-size: larger;
+
 }
 
 .text-input:hover {
@@ -398,9 +394,9 @@ form p {
     font-weight: bold;
     font-size: x-large;
     text-decoration: solid;
-     margin: 20px 59px 20px 0;
+    margin: 20px 59px 20px 0;
     font-family: 'Roboto Serif', sans-serif;
-    background:#f9f90ed6;
+    background: #f9f90ed6;
 }
 
 #taxi {
@@ -480,10 +476,11 @@ form p {
     }
 }
 
+
 /*for medium screen size from 950px wide and down*/
 
-@media screen and (max-width: 950px){
-    #taxiMenu{
+@media screen and (max-width: 950px) {
+    #taxiMenu {
         clear: left;
         float: left;
         margin-left: 30px;
@@ -491,7 +488,9 @@ form p {
         line-height: 25px;
     }
 
-    #cover{
+
+
+    #cover {
         left: 0;
     }
 
@@ -501,16 +500,19 @@ form p {
         margin: 0 auto;
     }
 
-    .taxiLeftTop, .taxiRightTop{
+    .taxiLeftTop,
+    .taxiRightTop {
         width: inherit;
     }
 
-    .taxiLeftTop h2, .taxiRightTop h2{
+    .taxiLeftTop h2,
+    .taxiRightTop h2 {
         width: 100%;
         text-align: center;
     }
 
-    .taxiLeftTop p, .taxiRightTop p{
+    .taxiLeftTop p,
+    .taxiRightTop p {
         text-align: center;
         padding: 0 20px;
     }
