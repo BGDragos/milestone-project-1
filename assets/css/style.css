@@ -304,6 +304,12 @@ form {
 
 #background {
     background: #f9f90e;
+    text-align: center;
+
+}
+
+#background p{
+    text-align: center;
 }
 
 legend {
