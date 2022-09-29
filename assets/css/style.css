@@ -543,6 +543,25 @@ form p {
     hr{
         display: none;
     }
+
+    #about{
+        width:fit-content;
+   }
+   
+   #about .program {
+       float: left;
+     width:fit-content;
+   }
+   
+   #about-taxi .aboutUsTaxis > img{
+       float:left;
+      width:100%;
+   }
+   
+   #about-taxi .aboutTaxi{
+       width:fit-content
+   }
+   
 }
 
 
