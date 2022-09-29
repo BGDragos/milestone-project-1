@@ -169,7 +169,7 @@ Today 29/09/2022 I writing this <i>README.md</i> and I am proud with my work.
 
 - Using the Lighthouse tests I could see lots of issues for viewing pictures in different resolution, in big proportion I applied changes. But some of the issues are related to <i><b>json</b></i>
 
--I used <b>DevTools</b> offered by <b>Google</b> I applied all the changes and I wrote everything in <b>Gitpod</b> where is an internal <b>Visual Studio Code</b>
+- I used <b>DevTools</b> offered by <b>Google</b> I applied all the changes and I wrote everything in <b>Gitpod</b> where is an internal <b>Visual Studio Code</b>
 
 - For applying all the changes in <b>Gitpod</b> and check how website responding, I used the server mentioned by [Code Institute](https://codeinstitute.net/) in online learning process.
 
