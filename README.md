@@ -10,7 +10,7 @@ I owner of TaxisA2B shared accuarte pictures owned by me during development of t
  - At TaxisA2B, we get you from point A to B with comfort and with ease. We believe we've become so successful due to us always working hard to go the extra mile: we'll work whenever our clients need us, offering worry-free, quality service at a great price. 
 
 
-![Responsice Mockup]()
+![Responsice Mockup](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/mokup.png?raw=true)
 
 ## TAXISA2B HOME PAGE 
 
@@ -128,6 +128,8 @@ Today 29/09/2022 I writing this <i>README.md</i> and I am proud with my work.
     - [FontAwesome](https://fontawesome.com/icons)
     - [Google-Map-Generator](https://google-map-generator.com/)
     - [Google Fonts](https://fonts.google.com/)
+    <i>Site below says  <b>Not secure or Dangerous</b> when accessing the the link</i>
+    - [Mock-Up-Generator](http://techsini.com/multi-mockup/index.php)
  
  - I've looked after to understand much better the way how code is working using the link below:
  
