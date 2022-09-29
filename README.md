@@ -117,62 +117,59 @@ This site is builded in intention to help any person, group of people, people in
  
 ## Credits
 
-- I started this project in 22/09/2022 it's hard to know exect time until I finish because I started from scratch, I checked "LOVE RUNNING" and "Coders Coffeehouse" presented by our teacher.
-Today 29/09/2022 I writing this <i>README.md</i> I am proud with my work.
+- I started this project in 22/09/2022 it's hard to know exect time until I finish because I started from scratch, I checked "LOVE RUNNING" and "Coders Coffeehouse" presented by our teachers/mentors.
+Today 29/09/2022 I writing this <i>README.md</i> and I am proud with my work.
 
 ### Content
 
-- I am 100% sure that my work is not accurate but I checked watching again videos presented by mentors and I going digging dip to understand more.
-- I used copy paste during project just for snipping some as mentioned below:
+- I am 100% sure that my work is not accurate but I checked watching again videos presented by mentors and I am going to dig deep to understand more.
+- I used copy-paste during the project just for snipping some helpful content mentioned below:
 
     - [FontAwesome](https://fontawesome.com/icons)
     - [Google-Map-Generator](https://google-map-generator.com/)
     - [Google Fonts](https://fonts.google.com/)
  
- - I looked after to understand much better the way how code is workig using the link below:
+ - I've looked after to understand much better the way how code is working using the link below:
  
     - [W3Schools](https://www.w3schools.com/)
 
-  - I got all the majorities of ideas from [Code Institute](https://codeinstitute.net/) applying more modifications.
+  - I got all the majorities of ideas from [Code Institute](https://codeinstitute.net/) but I applied much more modifications and different meaning.
 
 ### Media
 
-  - I meet during the coding of this project loads of issues for view in different screen sizes.
+  - I found during the coding of this project loads of issues for view in different screen sizes.
   
   - All the pictures used in this <i>website</i> are under my ownership.
 
   - Template for this <i>README.md</i> is [Code Institute](https://codeinstitute.net/) property, I TAXISA2B, I am using only for presentation and I changed the content only for learning purpose.
-  - Text was written by me, person who developed this website no copy-paste taken.
+  - Text was written by me, person who developed this website no copy-paste taken from different sources.
 
 ### <i> Validator Testing</i>
 
 - HTML
-  - I could meet minor errors for mistyping or adding to many open tags in forgetting to close tags [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-
-
+  - I could found minor errors for mistyping or adding to many open tags or forgetting to close tags [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
 
   - After careful look I fixed all of them and now performances are after 95%.
-
 
   ![W3C HTML](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/w3chtml.png?raw=true)
 
 - CSS
-  - I could meet minor errors for mistyping or adding to many open tags or forgetting to close tags [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - I could found minor errors for mistyping or adding to many open tags or forgetting to close tags [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
-  - After careful look I fixed all of them and now the CSS file not presenting any error.
+  - After careful look I fixed all of them and now the CSS file is not presenting any error.
 
   ![W3C CSS](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/w3ccss.png?raw=true)
 
 ### <i>Unfixed Bugs</i>
 
-- Couple of issues for smaller screen size I fix big majority, Google DevTools asked for some <i>json</i> files and that's new for me.
+- Couple of issues for smaller screen size, I fixed big majority, Google DevTools asked for some <i>json</i> files and that's new for me.
  Some of the notions probably will become easier in the next chapters.
 
 ## Testing
 
 - Using the Lighthouse tests I could see lots of issues for viewing pictures in different resolution, in big proportion I applied changes. But some of the issues are related to <i><b>json</b></i>
 
-- <b>DevTools</b> offered by <b>Google</b> I applied all the changes and I wrote everything in <b>Gitpod</b> where is an internal <b>Visual Studio Code</b>
+-I used <b>DevTools</b> offered by <b>Google</b> I applied all the changes and I wrote everything in <b>Gitpod</b> where is an internal <b>Visual Studio Code</b>
 
 - For applying all the changes in <b>Gitpod</b> and check how website responding, I used the server mentioned by [Code Institute](https://codeinstitute.net/) in online learning process.
 
@@ -189,4 +186,4 @@ Today 29/09/2022 I writing this <i>README.md</i> I am proud with my work.
        - From selected <i>Build and deployment > Deploy from a branch</i> 
        - Under selection <i>Deploy from a branch</i> select from the box <i>main</i> or depending any profile, I have listed only <i>main</i>
        - After selection <i>main</i> + <i>/root</i> + <i>save</i>
-       - We're waiting few minutes to create the website page and after we submit the project.
+       - We're waiting few minutes to create the website page and after proceed to submit our the project.
