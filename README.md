@@ -6,7 +6,7 @@
 - Our logo is clearly for anyone who searching for taxi service, doesn't matter how many tabs are opened in any browser our favicon it's still lighting.
 - For this favicon we used our logo and mixed with some research on [W3Schools](https://www.w3schools.com/) I made TAXISA2B looking great.
 
-Established in 2018 by me owner and registered person at CRO(654230), person who developed this site as well. I consent to share info and address through this project and I am not using other details or using fake info during the project. 
+Established in 2018 by me owner and registered person at CRO / 654230, person who developed this site as well. I consent to share info and address through this project and I am not using other details or using fake info during the project. 
 I owner of TaxisA2B shared accuarte pictures owned by me during development of this project.
 
  - We are a small business based in Portlaoise, but we operate in Dublin as well. Dinamic team and willing to learn new things and listening to people needs.
@@ -36,7 +36,7 @@ This site is builded in intention to help any person, group of people, people in
 
   - Picture with one of the taxis that we're operating, including short description about our goal. 
 
-![Taxi Presentation](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/taxiGoal.jpg?raw=true)
+![Taxi Presentation](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/taxiGoal.png?raw=true)
 
 ### <ins>Our Services</ins>
 
@@ -49,7 +49,7 @@ This site is builded in intention to help any person, group of people, people in
 
   - This map shows the location of TaxisA2B, this map was taken from [Google-Map-Generator](https://google-map-generator.com/) 
 
-  ![Map](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/gogleTaxiMap.jpg?raw=true)
+  ![Map](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/googleTaxiMap.png?raw=true)
 
   - This map was modified using CSS and in Home page is different view.  
 
@@ -68,7 +68,7 @@ This site is builded in intention to help any person, group of people, people in
   - This page was tested in LightHouse before uploading all the elements. 
   - All the errors occurred during the tests has been resolved using Developer Tools offered by Google.
 
-![LightHouse](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/indexLighthouse.jpg?raw=true)
+![LightHouse](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/indexLighthouse.png?raw=true)
 
 ## TAXISA2B BOOKING PAGE
 
@@ -89,7 +89,7 @@ This site is builded in intention to help any person, group of people, people in
   - This page was tested in LightHouse before uploading all the elements. 
   - All the errors occurred during the tests has been resolved using Developer Tools offered by Google.
 
-![LightHouse](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/bookingLighthouse.jpg?raw=true)
+![LightHouse](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/bookingLighthouse.png?raw=true)
 
 ## TAXISA2B ABOUT US PAGE 
 
@@ -132,8 +132,7 @@ Today 29/09/2022 I writing this <i>README.md</i> and I am proud with my work.
     - [FontAwesome](https://fontawesome.com/icons)
     - [Google-Map-Generator](https://google-map-generator.com/)
     - [Google Fonts](https://fonts.google.com/)
-    <i>Site below says  <b>Not secure or Dangerous</b> when accessing the the link</i>
-    - [Mock-Up-Generator](http://techsini.com/multi-mockup/index.php)
+    - [Am-I-Responsive](https://ui.dev/amiresponsive)
  
  - I've looked after to understand much better the way how code is working using the link below:
  
@@ -153,14 +152,14 @@ Today 29/09/2022 I writing this <i>README.md</i> and I am proud with my work.
 ### <i> Validator Testing</i>
 
 - HTML
-  - I could found minor errors for mistyping or adding to many open tags or forgetting to close tags [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - I could found minor errors for mistyping or adding to many open tags or forgetting to close tags [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbgdragos.github.io%2Ftaxisa2b%2Fabout.html)
 
   - After careful look I fixed all of them and now performances are after 95%.
 
   ![W3C HTML](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/w3chtml.png?raw=true)
 
 - CSS
-  - I could found minor errors for mistyping or adding to many open tags or forgetting to close tags [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - I could found minor errors for mistyping or adding to many open tags or forgetting to close tags [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbgdragos.github.io%2Ftaxisa2b%2Fabout.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
   - After careful look I fixed all of them and now the CSS file is not presenting any error.
 
