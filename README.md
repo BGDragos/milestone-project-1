@@ -51,10 +51,11 @@ This site is builded in intention to help any person, group of people, people in
 
 ### <ins>Footer</ins>
 
-  - The footer section includes links to the relevant social media sites for TaxisA2B. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for TaxisA2B. The links will open to a new tab to allow easy navigation for the user.
+
   - Footer contain large view of links and all the links used for this section are the real one.
 
-  - 
+  - Footer is exactly the same in any page that you navigate.
   
 ![Footer](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/footerT.png?raw=true)
 
@@ -65,3 +66,23 @@ This site is builded in intention to help any person, group of people, people in
 
 ![LightHouse](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/indexLighthouse.jpg?raw=true)
 
+## TAXISA2B BOOKING PAGE
+
+### <ins>Booking TAXISA2B</ins>
+
+  - Booking selection including preferences as:
+    - Type of service,
+    - Time, 
+    - Number of passengers,
+    - Number of luggages
+    - After filling the form each client is contacted by TaxisA2B for confirmig day and price.
+  - Any passenger included in any of those selection, can easily see it and get in touch whit TaxisA2B
+
+![Booking](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/bookingTable.png?raw=true)
+
+## Booking page was teste in LightHouse
+
+  - This page was tested in LightHouse before uploading all the elements 
+  - All the errors occurred during the tests has been resolved using Developer Tools offered by Google.
+
+![LightHouse](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/bookingLighthouse.jpg?raw=true)
