@@ -47,11 +47,13 @@ This site is builded in intention to help any person, group of people, people in
 
 ### <ins>Google map address of TaxisA2B</ins>
 
-  - This map shows the location of TaxisA2B, this map was taken from [Google-Map-Generator](https://google-map-generator.com/) 
+  - This map shows the location of TaxisA2B, 
+  - This map was taken from [Google-Map-Generator](https://google-map-generator.com/) 
+  - This map was modified using CSS style.
 
   ![Map](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/googleTaxiMap.png?raw=true)
 
-  - This map was modified using CSS and in Home page is different view.  
+   
 
 ### <ins>Footer</ins>
 
@@ -142,7 +144,7 @@ Today 29/09/2022 I writing this <i>README.md</i> and I am proud with my work.
 
 ### Media
 
-  - I found during the coding of this project loads of issues for view in different screen sizes.
+  - I found during the coding of this project lots of issues for view in different screen sizes. Now I am happy how everything's looking.
   
   - All the pictures used in this <i>website</i> are under my ownership.
 
@@ -154,7 +156,7 @@ Today 29/09/2022 I writing this <i>README.md</i> and I am proud with my work.
 - HTML
   - I could found minor errors for mistyping or adding to many open tags or forgetting to close tags [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbgdragos.github.io%2Ftaxisa2b%2Fabout.html)
 
-  - After careful look I fixed all of them and now performances are after 95%.
+  - After careful look I fixed all of them and now performances are after 90%.
 
   ![W3C HTML](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/w3chtml.png?raw=true)
 
