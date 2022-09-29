@@ -96,7 +96,7 @@ h3 {
     color: rgb(238, 231, 142);
 }
 
-/* Iamage Animation */
+/* Image Animation */
 
 #taxiImg {
     height: 600px;
@@ -149,14 +149,13 @@ h3 {
 #taxisa2b {
     height: 600px;
     padding: 1rem 0;
-    margin-bottom: 80px;
     background: url('../images/taxiBlink.jpg') center center / cover no-repeat fixed;
 
 }
 
 #taxiLeft {
     padding-top: 75px;
-    width: 33%;
+    width: 45%;
     float: left;
     background-color: rgb(13, 13, 12);
     position: relative;
@@ -166,7 +165,7 @@ h3 {
 
 #taxiRight {
     padding-top: 75px;
-    width: 33%;
+    width: 45%;
     float: right;
     background-color: rgb(13, 13, 12);
     position: relative;
@@ -174,10 +173,6 @@ h3 {
     border-radius: 5%
 }
 
-#taxiCenter {
-    width: 33%;
-    margin: 0 auto;
-}
 
 hr {
     border-top: 2px solid #e40909;
@@ -186,38 +181,41 @@ hr {
 }
 
 .taxiLeftTop {
-    width: 90%;
+    width: 100%;
     float: left;
     line-height: 20px;
     clear: both;
     margin-bottom: 60px;
     text-align: left;
+    color: white;
 }
 
 .taxiRightTop {
-    width: 90%;
+    width: 100%;
     float: left;
     line-height: 20px;
     clear: both;
     margin-bottom: 60px;
+    text-align: right;
+    color: white;
+}
+
+
+.taxiRightTop h2 {
     text-align: left;
 }
 
-.taxiRightTop h2 {
-    text-align: right;
-}
-
 .taxiLeftTop h2 {
-    text-align: right;
+    text-align: justify;
 }
 
 
 .taxiRightTop p {
-    text-align: right;
+    text-align: justify;
 }
 
 .taxiLeftTop p {
-    text-align: right;
+    text-align: justify;
 }
 
 #services {
@@ -225,24 +223,6 @@ hr {
     margin: 20px 0;
     font-size: 250%;
     color: #ff0000;
-}
-
-
-#circleTaxi {
-    width: 250px;
-    height: 250px;
-    padding: 40px;
-    border-style: solid;
-    border-color: rgb(13, 13, 12);
-    border-width: 10px;
-    border-radius: 30%;
-    margin: 0 auto;
-}
-
-#taxiCover {
-    background: url('../images/taxisa2b.jpg')no-repeat center center;
-    height: 100%;
-    border-radius: 30%;
 }
 
 #mapouter {
@@ -399,10 +379,6 @@ form p {
     background: #f9f90ed6;
 }
 
-#taxi {
-    text-align: left;
-}
-
 #booking {
     height: 30px;
     width: 100px;
@@ -435,6 +411,8 @@ form p {
     background-color: #fafafa;
     color: #f16c6b;
 }
+
+/* About us page */
 
 #about {
     margin: 90px 90px 90px;
@@ -525,7 +503,6 @@ form p {
     overflow: hidden;
 }
 
-
 /*Media queries*/
 
 /*For larger to medium screen size 1200px*/
@@ -542,13 +519,6 @@ form p {
     }
 
     #taxiLeft, #taxiRight {
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-    #taxiCenter{
-        clear: both;
         width: 100%;
         float: left;
         padding: 0;
@@ -607,6 +577,8 @@ form p {
         padding: 0 20px;
     }
 }
+
+/* media for screen max 600px */
 
 @media screen and (max-width: 600px){
 
