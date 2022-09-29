@@ -444,12 +444,12 @@ form p {
 }
 
 #img-taxi3 img {
-    width: 40%;
-    border-radius: 50%;
+    width: 50%;
+    height: 40%;
     border-style: solid;
     border-color: yellow;
-    border-width: 10px;
-    margin: 0 auto;
+    border-width: 5px;
+    border-radius: 20%
 }
 
 .list-change:hover {
@@ -475,7 +475,7 @@ form p {
     height: 40%;
     border-style: solid;
     border-color: yellow;
-    border-width: 10px;
+    border-width: 5px;
     margin: 70px auto;
     float: right;
     border-radius: 20%;
@@ -561,7 +561,7 @@ form p {
    #about-taxi .aboutTaxi{
        width:fit-content
    }
-   
+
 }
 
 
