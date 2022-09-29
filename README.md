@@ -97,6 +97,8 @@ This site is builded in intention to help any person, group of people, people in
 - Depende the screen used to see the page, client can have a look inside of the car through small picture provided.
 - Why our job is so serios and what clients cand expect when they book through the website.
 
+- For checking each option I used "ul" list and using check box snipped from [FontAwesome](https://fontawesome.com/icons)
+
 ![Picture-Inside](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/aboutT.png?raw=true)
 
 ### ABOUT US page was teste in LightHouse
@@ -105,4 +107,31 @@ This site is builded in intention to help any person, group of people, people in
   - All the errors occurred during the tests has been resolved using Developer Tools offered by Google.
 
 ![LightHouse](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/aboutLightHouse.png?raw=true)
+
+## Features Left to Implement
+
+- Testimony for our clients.
+- Review and Rating.
+- Option in Booking page to choose favorit driver.
+- Music that client will like to hear during the trip.
+ 
+## Credits
+
+- I started this project in 22/09/2022 it's hard to know exect time until I finish because I started from scratch, I checked "LOVE RUNNING" and "Coders Coffeehouse" presented by our teacher.
+Today 29/09/2022 I writing this <i>README.md</i> I am proud with my work.
+
+### Content
+
+- I am 100% sure that my work is not accurate but I checked watching again videos presented by mentors and I going digging dip to understand more.
+- I used copy paste during project just for snipping some as mentioned below:
+
+    - [FontAwesome](https://fontawesome.com/icons)
+    - [Google-Map-Generator](https://google-map-generator.com/)
+    - [Google Fonts](https://fonts.google.com/)
+ 
+ - I looked after to understand much better the way how code is workig using the link below:
+ 
+    - [W3Schools](https://www.w3schools.com/)
+
+  - I got all the majorities of ideas from [Code Institute](https://codeinstitute.net/) applying more modifications.
 
