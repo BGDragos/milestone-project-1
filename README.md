@@ -50,7 +50,7 @@ This site is builded in intention to help any person, group of people, people in
 
   - The footer section includes links to the relevant social media sites for TaxisA2B. The links will open to a new tab to allow easy navigation for the user. 
   - Footer contain large view of links and all the links used for this section are the real one.
-
+  
 ![Footer](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/footerT.png?raw=true)
 
 - __Gallery__
