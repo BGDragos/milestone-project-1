@@ -1,6 +1,10 @@
 ![TaxisA2B](/assets/images/taxisa2b.jpg)
 
-# TaxisA2B
+# TaxisA2B | Transportation
+
+![FavIcon](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/favIconT.png?raw=true)
+- Our logo is clearly for anyone who searching for taxi service, doesn't matter how many tabs are opened in any browser our favicon it's still lighting.
+- For this favicon we used our logo and mixed with some research on [W3Schools](https://www.w3schools.com/) I made TAXISA2B looking great.
 
 Established in 2018 by me owner and registered person at CRO(654230), person who developed this site as well. I consent to share info and address through this project and I am not using other details or using fake info during the project. 
 I owner of TaxisA2B shared accuarte pictures owned by me during development of this project.
