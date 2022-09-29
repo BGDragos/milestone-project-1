@@ -503,7 +503,27 @@ form p {
     margin: 50px 0;
 }
 
+.about-taxiImage h2 {
+    font-family: 'Roboto Serif', sans-serif;
+    color: #ccf809;
+}
 
+.aboutUsTaxisImg p {
+    text-align: justify;
+    color: #e8eae0;
+    width: 100%;
+    line-height: 30px;
+    margin: 50px 0;
+}
+
+.aboutUsTaxis2 img {
+    width: 100%;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 5px;
+    border-radius: 20%;
+    overflow: hidden;
+}
 
 
 /*Media queries*/
