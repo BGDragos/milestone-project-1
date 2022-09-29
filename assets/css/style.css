@@ -226,9 +226,9 @@ hr {
 }
 
 #mapouter {
-    height: 300px;
-    margin-top: 100px;
-    margin-bottom: 100px;
+    height: 600px;
+    margin-top: 160px;
+    margin-bottom: 160px;
 }
 
 #gmap_canvas {
@@ -597,6 +597,24 @@ form p {
         text-align: center;
         padding: 0 20px;
     }
+
+    #about{
+        width:fit-content;
+   }
+   
+   #about .program {
+       float: left;
+     width:fit-content;
+   }
+   
+   #about-taxi .aboutUsTaxis > img{
+       float:left;
+      width:100%;
+   }
+   
+   #about-taxi .aboutTaxi{
+       width:fit-content
+   }
 }
 
 /* media for screen max 600px */
@@ -615,27 +633,14 @@ form p {
   width:fit-content;
 }
 
-#img-taxi3 img,
- .aboutUsTaxis img,
- .aboutUsTaxis2 img {
-    max-width: 600px;
-    max-height: 600px;
-    
+#about-taxi .aboutUsTaxis > img{
+    float:left;
+   width:100%;
 }
 
-.aboutUsTaxis img {
-    float: left;
-}
-
-
-    #about-taxi h2{
-        text-align:center;
-    }
-
- #about-taxi .aboutTaxi{
-     float: right;
+#about-taxi .aboutTaxi{
     width:fit-content
-    }
+}
 
     #taxisa2b{
         max-width: 800px;
