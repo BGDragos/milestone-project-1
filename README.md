@@ -163,3 +163,30 @@ Today 29/09/2022 I writing this <i>README.md</i> I am proud with my work.
 
   ![W3C CSS](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/w3ccss.png?raw=true)
 
+### <i>Unfixed Bugs</i>
+
+- Couple of issues for smaller screen size I fix big majority, Google DevTools asked for some <i>json</i> files and that's new for me.
+ Some of the notions probably will become easier in the next chapters.
+
+## Testing
+
+- Using the Lighthouse tests I could see lots of issues for viewing pictures in different resolution, in big proportion I applied changes. But some of the issues are related to <i><b>json</b></i>
+
+- <b>DevTools</b> offered by <b>Google</b> I applied all the changes and I wrote everything in <b>Gitpod</b> where is an internal <b>Visual Studio Code</b>
+
+- For applying all the changes in <b>Gitpod</b> and check how website responding, I used the server mentioned by [Code Institute](https://codeinstitute.net/) in online learning process.
+
+## Deployment
+
+- After finishing my project I followed cople of easy stepts:
+  - I added any page or modified page to git (<b>git add .</b>)
+  - I committed any Update followed by relevant information (<b>git commit -m "...relevant message..."</b>)
+  - I pushed all the work to <i>GitHub</i> using (<b>git push</b>)
+  - After we see our site available in <i>GitHub Website</i>
+       - We are looking for our repositories
+       - We go in last pushed project
+       - Selecting <i>Settings > Pages > Source > Build and deployment</i>
+       - From selected <i>Build and deployment > Deploy from a branch</i> 
+       - Under selection <i>Deploy from a branch</i> select from the box <i>main</i> or depending any profile, I have listed only <i>main</i>
+       - After selection <i>main</i> + <i>/root</i> + <i>save</i>
+       - We're waiting few minutes to create the website page and after we submit the project.
