@@ -291,8 +291,8 @@ form {
 
 .bookingTaxisa2b{
     text-align: center;
-    margin: 60px 60px 0;
-    padding: 1rem 1rem;
+    margin: 60px 60px 60px 40px;
+    padding: 3rem 3rem;
 }
 
 #client-name {
@@ -602,18 +602,12 @@ form p {
 /* media for screen max 600px */
 
 @media screen and (max-width: 600px){
-
-    #taxi{
-        width:fit-content;
-    }
-    
     #cover{
         width:fit-content;
     }
 
 #about{
-    width: 100%;
-    text-align: justify;
+     width:fit-content;
 }
 
 #about .program {
@@ -643,14 +637,15 @@ form p {
     width:fit-content
     }
 
-    footer{
-        width:fit-content;
+    #taxisa2b{
+        max-width: 800px;
+        max-height: 800px;
+        margin: 0 auto;
     }
 
-    #taxisa2b{
-        max-width: 600px;
-        max-height: 600px;
-        margin: 0 auto;
+    #taxiMenu li>a{        
+        float:left;
+        padding: 10px 10px 10px 40px;
     }
 
     #services {
@@ -673,5 +668,10 @@ form p {
 
     hr{
         display: none;
+    }
+
+    form {
+        max-width: 90%;
+        max-height: 100%; 
     }
 }
