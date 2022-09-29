@@ -2,14 +2,17 @@
 
 # TaxisA2B
 
-Established in 2018 by me owner and registered person at CRO(654230), person who developed this site as well. I consent to share info and address through this project and I am not using other details or using fake info during the project. We are a small business based in Portlaoise, but we operate in Dublin as well. Dinamic team and willing to learn new things and listening to people needs.
+Established in 2018 by me owner and registered person at CRO(654230), person who developed this site as well. I consent to share info and address through this project and I am not using other details or using fake info during the project. 
+I owner of TaxisA2B shared accuarte pictures owned by me during development of this project.
 
-At TaxisA2B, we get you from point A to B with comfort and with ease. We believe we've become so successful due to us always working hard to go the extra mile: we'll work whenever our clients need us, offering worry-free, quality service at a great price. 
+ - We are a small business based in Portlaoise, but we operate in Dublin as well. Dinamic team and willing to learn new things and listening to people needs.
+
+ - At TaxisA2B, we get you from point A to B with comfort and with ease. We believe we've become so successful due to us always working hard to go the extra mile: we'll work whenever our clients need us, offering worry-free, quality service at a great price. 
 
 
 ![Responsice Mockup]()
 
-## Features 
+## TAXISA2B HOME PAGE 
 
 This site is builded in intention to help any person, group of people, people in wheelchair or any oder needs in term of TRANSPORTATION and reliable service. I owner of TaxisA2B I am trying to reach out any transportation needs and I am considering any advice relating to this project or any section that I am going through below
 
@@ -20,34 +23,35 @@ This site is builded in intention to help any person, group of people, people in
   - From Left > Right is NAV Bar List with three diferite selections that make easy to navigate to your needs [Home](https://github.com/BGDragos/milestone-project-1/blob/main/index.html) , [Booking](https://github.com/BGDragos/milestone-project-1/blob/main/booking.html), [AboutUS](https://github.com/BGDragos/milestone-project-1/blob/main/about.html)
   - Top Right Corner of the page is name of the registered company TAXISA2B that showing a small icon that I snipped from [FontAwesome](https://fontawesome.com/icons)
 
-![Nav Bar](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/headerT.jpg)
+![Nav Bar](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/headerT.jpg?raw=true)
 
-- __The landing page image__
+### <ins>Presentation of TaxisA2B</ins>
 
   - Picture with one of the taxis that we're operating, including short description about our goal. 
 
-![Landing Page](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/taxiGoal.jpg)
+![Landing Page](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/taxiGoal.jpg?raw=true)
 
 - __Our Services__
 
   - TaxisA2B included in this section couple of major services that we are offering dealing with our clients.  
   - Any passenger included in any of those selection, can easily see it and get in touch whit TaxisA2B
 
-![Our Services](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/seviceTaxi.png)
+![Our Services](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/seviceTaxi.png?raw=true)
 
-- __Meetup Times section__
+### <ins>Google map address of TaxisA2B</ins>
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This map shows the location of TaxisA2B, this map was taken from [Google-Map-Generator](https://google-map-generator.com/) 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+  [Map](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/gogleTaxiMap.jpg?raw=true)
 
-- __The Footer__ 
+  - This map was modified using CSS and in Home page is different view.  
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+### <ins>Footer</ins>
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+  - The footer section includes links to the relevant social media sites for TaxisA2B. The links will open to a new tab to allow easy navigation for the user. 
+  - Footer contain large view of links and all the links used for this section are the real one.
+
+![Footer](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/footerT.png?raw=true)
 
 - __Gallery__
 
