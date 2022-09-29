@@ -61,7 +61,7 @@ This site is builded in intention to help any person, group of people, people in
 
 ### Home page was teste in LightHouse
 
-  - This page was tested in LightHouse before uploading all the elements 
+  - This page was tested in LightHouse before uploading all the elements. 
   - All the errors occurred during the tests has been resolved using Developer Tools offered by Google.
 
 ![LightHouse](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/indexLighthouse.jpg?raw=true)
@@ -82,7 +82,7 @@ This site is builded in intention to help any person, group of people, people in
 
 ### Booking page was teste in LightHouse
 
-  - This page was tested in LightHouse before uploading all the elements 
+  - This page was tested in LightHouse before uploading all the elements. 
   - All the errors occurred during the tests has been resolved using Developer Tools offered by Google.
 
 ![LightHouse](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/bookingLighthouse.jpg?raw=true)
@@ -98,4 +98,11 @@ This site is builded in intention to help any person, group of people, people in
 - Why our job is so serios and what clients cand expect when they book through the website.
 
 ![Picture-Inside](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/aboutT.png?raw=true)
+
+### ABOUT US page was teste in LightHouse
+
+  - This page was tested in LightHouse before uploading all the elements. 
+  - All the errors occurred during the tests has been resolved using Developer Tools offered by Google.
+
+![LightHouse](https://github.com/BGDragos/milestone-project-1/blob/main/assets/images/aboutLightHouse.png?raw=true)
 
